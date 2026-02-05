@@ -187,7 +187,7 @@ On the Iris dataset (train/test split: 70/30):
 
 ## 📝 License
 
-This project is open source and available for educational purposes.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
